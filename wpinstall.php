@@ -4,7 +4,7 @@
 <meta name="viewport" content="width=device-width">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>WordPress &gt; Remote Installer</title>
-<link rel="stylesheet" id="combined-css" href="http://projects.karthik.sg/wpwebinstaller/combined.css" type="text/css" media="all">
+<link rel="stylesheet" id="combined-css" href="http://projects.karthik.sg/wpwebinstaller/style.css" type="text/css" media="all">
 </head>
 <body class="wp-core-ui">
 <h1 id="logo"><a href="http://wordpress.org/">WordPress CMS</a></h1>
