@@ -19,10 +19,10 @@ Previously, the only way to install WordPress onto webhosts who do not offer aut
 5. Uploading the numerous WordPress files
 
 ## The New Way
-The WordPress Remote Installer aims to eliminate almost all of these steps, instead, installing WordPress would be as simple as:
+The WordPress Web Installer aims to eliminate almost all of these steps, instead, installing WordPress would be as simple as:
 
 1. Upload **wpwebinstaller.php**
-2. (Optional) Upload **wp-remote-plugins.txt** and/or **wp-remote-themes.txt**
+2. (Optional) Upload **wp-remote-plugins.txt** and/or **wp-themes.txt**
 3. Go to **http://yourserver.com/wpwebinstaller.php**
 
 The script then performs all the following for you:
@@ -47,7 +47,7 @@ In order for this script to work, your webserver must:
 Pretty straight-forward, really...
 
 1. Connect to your webserver via FTP
-2. Upload **wp-remote-install.php**
-3. Go to **http://yourserver.com/wp-remote-install.php**
+2. Upload **wpwebinstaller.php**
+3. Go to **http://yourserver.com/wpwebinstaller.php**
 4. Complete the WordPress Install
 
