@@ -7,6 +7,8 @@ Installing WordPress is relatively easy. Their developers have done alot of work
 
 Some webhosts offer services allowing for WordPress to be automatically installed into a site, but these installs often contain bloatware in the form of extensions or themes which, frankly, are useless.
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
 ## The Old Way
 Previously, the only way to install WordPress onto webhosts who do not offer automated installs (or onto webhosts who do, but where you want to avoid that bloatware) was by:
 
